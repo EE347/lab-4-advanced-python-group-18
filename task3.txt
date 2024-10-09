@@ -1,3 +1,6 @@
 Jake
 Daniel
 Tom
+jake
+daniel
+tom
