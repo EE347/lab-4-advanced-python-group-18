@@ -17,7 +17,7 @@ def read_names_from_csv(filename):
     return names
 
 if __name__ == '__main__':
-    filename = 'ee347/lab-4-advanced-python-group-18/task5.csv'
+    filename = '/home/pi/ee347/lab-4-advanced-python-group-18/task5.csv'
     add_names_to_csv(filename)
     names = read_names_from_csv(filename)
     for name in names:
